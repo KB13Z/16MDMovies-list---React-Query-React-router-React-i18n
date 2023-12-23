@@ -1,0 +1,115 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "The Shawshank Redemption",
+      "genre": "Drama",
+      "year": 1994,
+      "director": "Frank Darabont",
+      "rating": 9.3,
+      "commentaries": [
+        "A classic tale of hope and redemption in the face of adversity."
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Interstellar",
+      "genre": "Sci-Fi",
+      "year": 2014,
+      "director": "Christopher Nolan",
+      "rating": 8.6,
+      "commentaries": [
+        "A visually stunning journey through space and time.",
+        "Interweaves science and emotion masterfully."
+      ]
+    },
+    {
+      "id": 3,
+      "title": "The Dark Knight",
+      "genre": "Action",
+      "year": 2008,
+      "director": "Christopher Nolan",
+      "rating": 9,
+      "commentaries": [
+        "A gripping superhero film with a complex portrayal of the Joker."
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Pulp Fiction",
+      "genre": "Crime",
+      "year": 1994,
+      "director": "Quentin Tarantino",
+      "rating": 8.9,
+      "commentaries": [
+        "A nonlinear narrative that weaves together various interconnected stories."
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Forrest Gump",
+      "genre": "Drama",
+      "year": 1994,
+      "director": "Robert Zemeckis",
+      "rating": 8.8,
+      "commentaries": [
+        "A heartwarming journey through the life of a simple man with extraordinary experiences."
+      ]
+    },
+    {
+      "id": 6,
+      "title": "The Matrix",
+      "genre": "Sci-Fi",
+      "year": 1999,
+      "director": "The Wachowskis",
+      "rating": 8.7,
+      "commentaries": [
+        "Revolutionary visuals and a mind-bending exploration of reality and identity."
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Schindler's List",
+      "genre": "Biography",
+      "year": 1993,
+      "director": "Steven Spielberg",
+      "rating": 8.9,
+      "commentaries": [
+        "A powerful portrayal of Oskar Schindler's efforts to save Jews during the Holocaust."
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Inception",
+      "genre": "Sci-Fi",
+      "year": 2010,
+      "director": "Christopher Nolan",
+      "rating": 8.8,
+      "commentaries": [
+        "A mind-bending heist film set within the architecture of the mind."
+      ]
+    },
+    {
+      "id": 9,
+      "title": "The Silence of the Lambs",
+      "genre": "Thriller",
+      "year": 1991,
+      "director": "Jonathan Demme",
+      "rating": 8.6,
+      "commentaries": [
+        "A psychological thriller featuring the iconic character Hannibal Lecter."
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Fight Club",
+      "genre": "Drama",
+      "year": 1999,
+      "director": "David Fincher",
+      "rating": 8.8,
+      "commentaries": [
+        "An exploration of identity, consumerism, and societal expectations."
+      ]
+    }
+  ]
+}

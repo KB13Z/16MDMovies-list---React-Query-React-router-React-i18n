@@ -1,0 +1,14 @@
+.projectContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.projectHeading {
+    margin-top: 4rem;
+}
+
+.projectDescription {
+    font-size: 20px;
+    line-height: 3rem;
+}

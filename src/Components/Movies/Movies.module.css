@@ -1,0 +1,9 @@
+.moviesContainer {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.moviesHeading {
+    padding-bottom: 2rem;
+}

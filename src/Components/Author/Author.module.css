@@ -1,0 +1,19 @@
+.authorContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.authorHeading {
+    margin-top: 4rem;
+}
+
+.authorDescription {
+    font-size: 20px;
+    line-height: 3rem;
+}
+
+.monster {
+    display: flex;
+    align-self: center;
+}
